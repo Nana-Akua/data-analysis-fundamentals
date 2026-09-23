@@ -21,7 +21,7 @@ data-analysis-fundamentals/
 │   └── notebooks
 ├── 02-numpy/
 ├── 03-matplotlib/
-└── 04 sql/
+└── 04-sql/
 ```
 
 Each topic folder contains Jupyter notebooks (or `.sql` files) in learning order, with the datasets they use in a `data/` subfolder.
